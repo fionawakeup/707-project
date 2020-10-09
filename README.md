@@ -1,1 +1,1 @@
-# 707-project
+# Performance Comparison of Machine Learning Algorithms on Fake News Detection

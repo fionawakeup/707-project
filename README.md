@@ -2,3 +2,5 @@
 #BERT pretrained model
 #Logistic Regression
 #Support Vector Machine 
+#LSTM
+#CNN
